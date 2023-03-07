@@ -1,6 +1,7 @@
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: whitesmoke;
+    background-color: bisque;
+    margin: 0px;
 }
 
 /* navbar logo */
@@ -33,10 +34,12 @@ a{
 /* navbar position */
 nav{
     position: fixed;
+    margin: auto;
     top: 0;
     width: 100%;
-    padding: 30px 0% 30px 0%;
+    padding: 20px 0% 20px 0%;
     background-color: white;
+    font-size: 1.4rem;
 }
 
 .lewologo{
@@ -54,11 +57,33 @@ nav{
 
 /* anti over main */
 main{
-    margin-top: 90px;
-
+    margin: 100px 13% 0px 13%;
 }
 
 
 
+/* article settings */
+article{
+    display: flex;
+}
 
+.tytul{
+    font-size: 2.8rem;
+    font-weight: bold;
+
+}
+
+.podpis{
+    font-size: 1.2rem;
+}
+
+/* article positions */
+
+.tekst{
+    width: 50%;
+}
+
+.zdjecie{
+    width: 50%;
+}
 
