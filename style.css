@@ -34,7 +34,8 @@ nav{
     position: fixed;
     top: 0;
     width: 100%;
-    padding: 5% 10% 0% 10%;
+    padding: 4% 10% 4% 10%;
+    background-color: white;
 }
 
 .lewologo{
@@ -49,7 +50,7 @@ nav{
 
 /* anti over main */
 main{
-    margin-top: 15px;
+    margin-top: 10%;
 
 }
 
