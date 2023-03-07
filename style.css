@@ -1,6 +1,6 @@
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: bisque;
+    /* background-color: bisque; */
     margin: 0px;
 }
 
@@ -87,3 +87,8 @@ article{
     width: 50%;
 }
 
+img{
+    max-width:90%;
+    max-height: 90%;
+    padding-left: 28px;
+}
