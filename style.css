@@ -34,7 +34,7 @@ nav{
     position: fixed;
     top: 0;
     width: 100%;
-    padding: 4% 10% 4% 10%;
+    padding: 30px 10% 30px 10%;
     background-color: white;
 }
 
@@ -50,7 +50,7 @@ nav{
 
 /* anti over main */
 main{
-    margin-top: 10%;
+    margin-top: 90px;
 
 }
 
