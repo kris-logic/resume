@@ -7,7 +7,53 @@ body{
     font-weight: bold;
 }
 
+.lewologo a:hover{
+    font-weight: bolder;
+}
+
 .ux{
     color: #FFE01B;
+
 }
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.blogs{
+    margin-right: 1.5rem;
+}
+
+.prawologo a:hover{
+    font-weight: bold;
+}
+
+/* navbar position */
+nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 5% 10% 0% 10%;
+}
+
+.lewologo{
+    float: left;
+    width: 65%;
+}
+
+.prawologo{
+    float: left;
+    width: 35%;
+}
+
+/* anti over main */
+main{
+    margin-top: 15px;
+
+}
+
+
+
+
 
